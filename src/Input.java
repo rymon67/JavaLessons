@@ -9,7 +9,5 @@ public class Input {
         int b = s.nextInt();
         int c = a + b;
         System.out.println("Их сумма " + c);
-        // тестовый комментарий
-        // второй тестовый комментарий
     }
 }
